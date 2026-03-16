@@ -1,21 +1,21 @@
 # Nayo Construction Website
 
-A responsive business website built for Nayo Construction to present the company’s services, team, and contact information in a clear and professional way.
+A responsive business website developed for Nayo Construction using HTML, CSS, and JavaScript. The site was built to provide a professional online presence, showcase company information, and improve accessibility for potential clients.
 
 ## Overview
 
-This project was designed and developed as a custom website to improve the company’s online presence and provide potential clients with an accessible way to learn about the business.
+This project involved designing and implementing a multi-page frontend website for a real business use case. The focus was on creating a clean layout, readable content structure, and an interface that is easy to navigate.
 
 ## Features
 
-- Responsive multi-page website
-- Clean and user-friendly interface
-- Service and company information pages
-- Contact page for customer inquiries
-- Media assets including images and videos
-- Organized frontend structure for easy updates
+- Responsive website layout
+- Multi-page navigation
+- Business information and team pages
+- Contact page
+- Media integration with images and video
+- Clean and maintainable frontend code
 
-## Tech Stack
+## Technologies Used
 
 - HTML
 - CSS
@@ -23,26 +23,14 @@ This project was designed and developed as a custom website to improve the compa
 - Git
 - GitHub
 
-## My Contributions
+## My Role
 
-- Designed and developed the website frontend
-- Built the site using HTML, CSS, and JavaScript
-- Structured and styled multiple pages for usability and readability
-- Added media and content sections to support business presentation
-- Managed version control with Git and hosted the code on GitHub
+- Built the website frontend from scratch
+- Implemented page layouts and styling using HTML and CSS
+- Added interactivity and client-side functionality with JavaScript
+- Organized files and assets for maintainability
+- Used GitHub for code hosting and version control
 
-## Project Structure
+## Project Goal
 
-- `index.html` – homepage
-- `team.html` – team/company information
-- `contact.html` – contact page
-- `style.css` – site styling
-- `script.js` – frontend interactivity
-
-## Purpose
-
-The goal of this project was to create a professional and functional business website that could support a real company’s branding and digital presence.
-
-## Repository Link
-
-This repository contains the source code for the Nayo Construction website.
+The goal of this project was to deliver a polished and functional website for a construction business while strengthening practical frontend development skills in a real-world project setting.
